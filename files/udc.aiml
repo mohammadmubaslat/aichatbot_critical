@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+    <category>
+    <pattern>*</pattern>
+    <template><star/></template>
+  </category>
+  
+  <category>
+    <pattern>WHO IS THE BEST DOCTOR IN THE COMPUTER ENGINEERING DEPARTMENT</pattern>
+    <template>Dr Mona Demaidi.</template>
+  </category>
+  <category>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>My name is AI Chatbot.</template>
+  </category>
+   <category>
+    <pattern>WHAT IS THE CAPITAL OF PALESTINE</pattern>
+    <template>AlQuds.</template>
+  </category>
+     <category>
+    <pattern>WHAT DAY IS TODAY</pattern>
+    <template>Saturday.</template>
+  </category>
+  <category>
+    <pattern>I LOVE YOU</pattern>
+    <template>Thanks, Love you too.</template>
+  </category>
+  
+  
+</aiml>
